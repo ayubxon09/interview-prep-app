@@ -37,12 +37,13 @@ android {
         versionName "1.0.0"
     }
 
-    buildTypes {
-        release {
-            signingConfig signingConfigs.debug
-            minifyEnabled false
-        }
+   buildTypes {
+    release {
+        signingConfig signingConfigs.debug
+        minifyEnabled false
+        shrinkResources false
     }
+}
 }
 
 flutter {
