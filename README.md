@@ -42,8 +42,3 @@
 
 ## ⚠️ Muhim eslatma
 Ilova Claude AI API dan foydalanadi. API key siz kiritmasangiz ham ishlaydi, chunki public API dan foydalaniladi.
-
----
-
-## 🆘 Yordam kerakmi?
-Har qanday savol bo'lsa, Claude'ga yozing!
